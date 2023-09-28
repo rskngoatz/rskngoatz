@@ -20,10 +20,10 @@
       "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
       "facebook_native_id" : "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "facebook",
+    "mode_ads_interstitial" : "facebook",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "facebook",
     "mode_button_ads_action" : "0",
     "unity" : {
       "unity_app_id" : "",
@@ -32,7 +32,7 @@
       "unity_rewarded_id" : ""
     },
     "update" : {
-      "enable_update_closed" : true,
+      "enable_update_closed" : false,
       "update_action" : "",
       "update_msg" : "update your app for grt all favorite now",
       "update_state" : false,
@@ -47,7 +47,7 @@
       "id" : 0,
       "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "free",
-      "title" : "yow drrii kirm 01",
+      "title" : "yow drrii kirm 04",
       "description" : "",
       "written" : "Test written 0 <br>My written"
     },
